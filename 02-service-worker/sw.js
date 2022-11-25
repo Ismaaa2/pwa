@@ -1,5 +1,6 @@
  
 
+console.log('prueba');
 
 
 self.addEventListener('fetch', event => {
